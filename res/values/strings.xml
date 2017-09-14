@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="about_voucher">*Drum roll* Ritika is now your private executive genie. You have won 6 magical coupons. Redeem them anytime by just whatsapping them to her, one at a time!</string>
+    <string name="app_name">Multi Level Game</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="game_message">\n\nYou have to collect at least 10 hearts without dropping a single one. Keep trying until you succeed, or pass out with exhaustion. \nClear this round and the BCCI will consider you as Wicket Keeper of Indian Cricket Team.</string>
+    <string name="introSlide5">Long press the image and drag to reorder;\n the correct order will reveal a secret message!</string>
+    <string name="next">Next</string>
+    <string name="puzzle_message">There\'s a bug in Ritika\'s favourite selfie. Fix it. Fix it now! Or she will have to find someone else who can.</string>
+    <string name="quiz_message">How well do you know Ritika? Take this quiz to find out. PS: If you fail, you will be charged guilty in the court of law for not paying enough attention.</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+    <string name="title_activity_splash">Giftract</string>
+    <string name="whatsapp_message">Whatsapp Ritika to Proceed</string>
+</resources>

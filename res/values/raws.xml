@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <raw name="boom">res/raw/boom.mp3</raw>
+    <raw name="correct_answer">res/raw/correct_answer.mp3</raw>
+    <raw name="end_music">res/raw/end_music.mp3</raw>
+    <raw name="music1">res/raw/music1.mp3</raw>
+    <raw name="spinning_wheel">res/raw/spinning_wheel.mp3</raw>
+    <raw name="tick">res/raw/tick.mp3</raw>
+    <raw name="wrong_answer">res/raw/wrong_answer.mp3</raw>
+</resources>

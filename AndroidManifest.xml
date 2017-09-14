@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="2" android:versionName="2.0" package="giftract.com.multilevelgame" platformBuildVersionCode="23" platformBuildVersionName="6.0-2704002">
+    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="23" />
+    <application android:theme="@style/AppTheme" android:label="APPily Yours" android:icon="@drawable/appicon" android:allowBackup="true" android:supportsRtl="true">
+        <activity android:name="giftract.com.multilevelgame.IntroActivity" />
+        <activity android:theme="@style/Theme.AppCompat.NoActionBar" android:label="APPily Yours" android:name="giftract.com.multilevelgame.splash" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.AppCompat.NoActionBar" android:name="giftract.com.multilevelgame.Quiz.QuizActivity" />
+        <activity android:theme="@style/Theme.AppCompat.NoActionBar" android:name="giftract.com.multilevelgame.Quiz.ResultActivity" />
+        <activity android:theme="@style/Theme.AppCompat.NoActionBar" android:name="giftract.com.multilevelgame.basketGame.MainActivity" />
+        <activity android:theme="@style/Theme.AppCompat.NoActionBar" android:name="giftract.com.multilevelgame.basketGame.GameActivity" />
+        <activity android:theme="@style/Theme.AppCompat.NoActionBar" android:name="giftract.com.multilevelgame.basketGame.HighScore" />
+        <activity android:theme="@style/Theme.AppCompat.NoActionBar" android:name="giftract.com.multilevelgame.basketGame.NextActivity" />
+        <activity android:theme="@style/Theme.AppCompat.NoActionBar" android:name="giftract.com.multilevelgame.SpinWheel.SpinWheel" />
+        <activity android:theme="@style/Theme.AppCompat.NoActionBar" android:label="@string/app_name" android:name="giftract.com.multilevelgame.Puzzle.PuzzleActivity" />
+        <activity android:theme="@style/Theme.AppCompat.NoActionBar" android:name="giftract.com.multilevelgame.Voucher.Message_Grid" />
+        <activity android:theme="@style/Theme.AppCompat.NoActionBar" android:name="giftract.com.multilevelgame.LevelSummary.LevelSelectorActivity" />
+        <activity android:theme="@style/Theme.AppCompat.NoActionBar" android:name="giftract.com.multilevelgame.Puzzle.MainActivityPuzzle" />
+        <activity android:theme="@style/Theme.AppCompat.NoActionBar" android:name="giftract.com.multilevelgame.Quiz.MainActivityQuiz" />
+        <activity android:theme="@style/Theme.AppCompat.NoActionBar" android:name="giftract.com.multilevelgame.SpinWheel.MainActivitySpinWheel" />
+        <activity android:theme="@style/Theme.AppCompat.NoActionBar" android:name="giftract.com.multilevelgame.SpinWheel.SpinTaskActivity" />
+        <activity android:theme="@style/Theme.AppCompat.NoActionBar" android:name="giftract.com.multilevelgame.Voucher.About_voucher" />
+        <activity android:theme="@style/Theme.AppCompat.NoActionBar" android:name="giftract.com.multilevelgame.Puzzle.PuzzleNextActivity" />
+    </application>
+</manifest>

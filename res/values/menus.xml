@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <menu name="menu_fragment_image">res/menu/menu_fragment_image.xml</menu>
+    <menu name="menu_puzzle">res/menu/menu_puzzle.xml</menu>
+</resources>
